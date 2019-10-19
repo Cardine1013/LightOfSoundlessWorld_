@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">소리없이 빛나는 세상</string>
+	<string name="text1">소리 없이\n빛나는\n세상\n</string>
+    <string name="homeText1">장치 배터리</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="color_ff231b52">#ff231b52</color>
+    <color name="twice_neon_magenta">#fc5d9d</color>
+    <color name="twice_apricot">#f9c596</color>
+    <color name="twice_nayeon">#49c0ec</color>
+    <color name="twice_jeongyeon">#a3cc54</color>
+    <color name="twice_momo">#e672a3</color>
+    <color name="twice_sana">#8c79b4</color>
+    <color name="twice_jihyo">#f9cc85</color>
+    <color name="twice_mina">#71c7d4</color>
+    <color name="twice_dahyun">#fefefe</color>
+    <color name="twice_chaeyoung">#c62722</color>
+    <color name="twice_tzuyu">#2253a3</color>
+    <color name="blk">#000000</color>
+</resources>
